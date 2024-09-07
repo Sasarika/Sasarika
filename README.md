@@ -1,14 +1,14 @@
 <!-- Header Image (you can replace with a cute or minimalist design) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=ecf05e47au36dnvp10x5bsiuwyaovfxm5jm6yruyk8awu0by&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Your Custom Header" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllbHUxMjVkNGx4czFpdDJ0M2RqNWtpNmUxbGRseDRpOWp4NnY4ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/drqmAm0kLnqPVzFB2p/giphy.gif" alt="Your Custom Header" width="300" />
 </p>
 
 <h2 align="center">✨ Hello, I'm Sariaka! ✨</h2>
 
 <!-- Add a short, welcoming message -->
-<p align="center">
-  A passionate <em>developer</em> with a love for clean code, creative solutions, and <strong>all things tech</strong>!
-</p>
+<h3 align="center">
+  A passionate developer with a love for clean code, creative solutions, and all things tech!
+</h3>
 
 <!-- GitHub Stats (optional, to display contributions) -->
 <p align="center">
