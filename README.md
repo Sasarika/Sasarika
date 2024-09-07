@@ -1,6 +1,6 @@
 <!-- Header Image (you can replace with a cute or minimalist design) -->
 <p align="center">
-  <img src="https://your-image-url.com/header-image.png" alt="Your Custom Header" width="600" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=ecf05e47au36dnvp10x5bsiuwyaovfxm5jm6yruyk8awu0by&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Your Custom Header" width="300" />
 </p>
 
 <h2 align="center">✨ Hello, I'm Sariaka! ✨</h2>
