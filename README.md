@@ -3,7 +3,7 @@
   <img src="https://your-image-url.com/header-image.png" alt="Your Custom Header" width="600" />
 </p>
 
-<h2 align="center">✨ Hello, I'm [Your Name]! ✨</h2>
+<h2 align="center">✨ Hello, I'm Sariaka! ✨</h2>
 
 <!-- Add a short, welcoming message -->
 <p align="center">
