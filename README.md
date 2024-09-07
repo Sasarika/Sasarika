@@ -12,7 +12,7 @@
 
 <!-- GitHub Stats (optional, to display contributions) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasarika&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
 </p>
 
 <!-- Skills Section -->
@@ -31,12 +31,7 @@
 
 <!-- Additional GitHub Contributions -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=rose_pine" alt="GitHub Streak Stats" />
-</p>
-
-<!-- Custom Footer Image -->
-<p align="center">
-  <img src="https://your-image-url.com/footer-image.png" alt="Cute Footer" width="600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasarika&theme=rose_pine" alt="GitHub Streak Stats" />
 </p>
 
 
