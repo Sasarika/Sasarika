@@ -11,9 +11,9 @@
 </h3>
 
 <!-- GitHub Stats (optional, to display contributions) -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sasarika&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
-</p>
+</p>-->
 
 <!-- Skills Section -->
 <h3 align="center">🔧 My Toolbox</h3>
