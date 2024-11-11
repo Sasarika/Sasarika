@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllbHUxMjVkNGx4czFpdDJ0M2RqNWtpNmUxbGRseDRpOWp4NnY4ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/drqmAm0kLnqPVzFB2p/giphy.gif" alt="Your Custom Header" width="300" />
 </p>
 
-<h2 align="center">✨ Hello, I'm Sariaka! ✨</h2>
+<h2 align="center">Hello, welcome to my profile</h2>
 
 <!-- Add a short, welcoming message -->
 <h3 align="center">
-  A passionate developer with a love for clean code, creative solutions, and all things tech!
+  A passionate developer with a love for clean code, and creative solutions.
 </h3>
 
 <!-- GitHub Stats (optional, to display contributions) -->
@@ -23,8 +23,6 @@
   <!-- Replace with your own skills and icons -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge&logo=ci-cd&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
