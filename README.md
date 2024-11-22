@@ -27,9 +27,5 @@
   <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge&logo=ci-cd&logoColor=white" alt="CI/CD" />
 </p>
 
-<!-- Additional GitHub Contributions -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasarika&theme=rose_pine" alt="GitHub Streak Stats" />
-</p>
 
 
